@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Gaming-Utilities-Console-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Gaming-Utilities-Console-Management?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Gaming-Utilities-Console-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Gaming-Utilities-Console-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Gaming-Utilities-Console-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Gaming-Utilities-Console-Management?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -63,9 +63,9 @@ The global Gaming Platforms, Storefront Launchers & Console Companion Software m
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted descending by GitHub stars count.*
+*Sorted descending by GitHub_Stars_Count.*
 
-| Project | Stars | License | Description |
+| Project | GitHub_Stars | License | Description |
 | :--- | :--- | :--- | :--- |
 | **[Syncthing](https://github.com/syncthing/syncthing)** 🔄 | [![Stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers) | `MPL-2.0` | Open-source continuous file synchronization program heavily adopted for decentralized cross-device save-game and configuration syncing across PC, Steam Deck, and Android handhelds. |
 | **[Sunshine](https://github.com/LizardByte/Sunshine)** ☀️ | [![Stars](https://img.shields.io/github/stars/LizardByte/Sunshine?style=social&color=white)](https://github.com/LizardByte/Sunshine/stargazers) | `GPL-3.0` | Self-hosted low-latency game stream host for Moonlight with hardware encoding support for AMD, Intel, and NVIDIA GPUs across Windows, Linux, and macOS. |
@@ -107,7 +107,7 @@ Contributions, bug reports, and updates are warmly welcomed! 🤝
 1. 🍴 **Fork the repository** to your personal GitHub account.
 2. 🌿 **Create a new feature branch** (`git checkout -b feature/add-new-gaming-tool`).
 3. 📝 **Add your entry** under the appropriate SaaS or Open-Source category:
-   - Ensure open-source projects include official GitHub star counts and links.
+   - Ensure open-source projects include official GitHub Stars_Counts and links.
    - For SaaS products, verify specific pricing tiers and free tier / trial parameters.
 4. ✅ **Ensure markdown formatting passes lint checks**.
 5. 🚀 **Submit a Pull Request** with a descriptive summary of your additions.
